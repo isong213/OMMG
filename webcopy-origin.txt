@@ -1,0 +1,72 @@
+Uri: https://t.omgapp.io/
+File Name: C:\Downloaded Web Sites\t.omgapp.io\index.htm
+Content Type: text/html
+
+Uri: https://t.omgapp.io/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\t.omgapp.io\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://t.omgapp.io/favicon.ico
+File Name: C:\Downloaded Web Sites\t.omgapp.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://t.omgapp.io/manifest.json
+File Name: C:\Downloaded Web Sites\t.omgapp.io\manifest.json
+Content Type: application/json
+
+Uri: https://t.omgapp.io/static/css/main.073c9b0a.css
+File Name: C:\Downloaded Web Sites\t.omgapp.io\static\css\main.073c9b0a.css
+Content Type: text/css
+
+Uri: https://t.omgapp.io/static/js/main.ad3477fe.js
+File Name: C:\Downloaded Web Sites\t.omgapp.io\static\js\main.ad3477fe.js
+Content Type: application/javascript
+
